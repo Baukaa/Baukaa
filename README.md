@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Baukaa
+- 👀 I’m interested in find a friend who will help me with coding
+- 🌱 I’m currently learning C++ basics
+- 💞️ I’m looking to collaborate on any project to get a experience
